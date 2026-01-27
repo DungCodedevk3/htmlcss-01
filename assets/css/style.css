@@ -169,7 +169,15 @@ a {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-top: 96px;
+  margin-top: 70px;
+}
+
+.clients .images a {
+  display: flex;
+  align-items: center;
+  height: 90px;
+  padding: 0 42px;
+  border-radius: 12px;
 }
 
 /* =============== Guides ============ */
